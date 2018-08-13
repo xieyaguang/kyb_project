@@ -1,0 +1,12 @@
+platformName: Android
+platformVerion: 5.1.1
+deviceName: 127.0.0.1:62025
+appname: kaoyanbang_3.2.8beta.230.apk
+noReset: False
+unicodeKeyboard: True
+resetKeyboard: True
+ 
+appPackage: com.tal.kaoyan
+appActivity: com.tal.kaoyan.ui.activity.SplashActivity
+ip: 127.0.0.1
+port: 4723

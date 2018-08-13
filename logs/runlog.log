@@ -1,0 +1,398 @@
+2018-08-03 11:16:40,616 desired_caps.py[line:33] INFO start  instll app ....
+2018-08-03 11:16:50,647 common_fun.py[line:23] INFO ===========check_updateBtn===========
+2018-08-03 11:16:50,901 common_fun.py[line:28] INFO cancel_upgradeBtn element is not found!
+2018-08-03 11:16:50,902 common_fun.py[line:34] INFO ===========skipBtnm===========
+2018-08-03 11:16:50,932 common_fun.py[line:41] INFO skipBtnm
+2018-08-03 11:16:51,432 loginView.py[line:32] INFO ====login_action====
+2018-08-03 11:16:51,432 loginView.py[line:33] INFO username is: 18721102132
+2018-08-03 11:16:56,979 loginView.py[line:35] INFO password is£º aaa111222
+2018-08-03 11:17:02,269 loginView.py[line:37] INFO click loginBtn
+2018-08-03 11:17:02,940 loginView.py[line:39] INFO login finished!!!
+2018-08-03 11:17:02,940 loginView.py[line:53] INFO =====check_agree_alert=======
+2018-08-03 11:17:02,940 loginView.py[line:42] INFO ===============
+2018-08-03 11:17:04,747 loginView.py[line:46] INFO No alert....
+2018-08-03 11:17:04,765 loginView.py[line:61] INFO click tv_agree_alert
+2018-08-03 11:17:05,248 loginView.py[line:65] INFO ==========check_loginStatus===========
+2018-08-03 11:17:05,248 common_fun.py[line:70] INFO ======check_marked_ad=======
+2018-08-03 11:17:06,691 common_fun.py[line:74] INFO No wemedia_cacel
+2018-08-03 11:17:10,666 loginView.py[line:79] INFO login success!!!
+2018-08-03 11:17:10,666 loginView.py[line:84] INFO ===logout_action=====
+2018-08-03 11:19:40,891 myunit.py[line:11] INFO =====setUp=======
+2018-08-03 11:19:40,893 desired_caps.py[line:33] INFO start  instll app ....
+2018-08-03 11:19:50,760 test_login.py[line:13] INFO ====start=====
+2018-08-03 11:19:50,760 myunit.py[line:15] INFO =====tearDown=======
+2018-08-03 11:20:21,492 myunit.py[line:11] INFO =====setUp=======
+2018-08-03 11:20:21,494 desired_caps.py[line:33] INFO start  instll app ....
+2018-08-03 11:20:33,067 test_login.py[line:13] INFO ====start=====
+2018-08-03 11:20:33,067 loginView.py[line:53] INFO =====check_agree_alert=======
+2018-08-03 11:20:33,067 loginView.py[line:42] INFO ===============
+2018-08-03 11:20:33,320 loginView.py[line:46] INFO No alert....
+2018-08-03 11:20:33,355 loginView.py[line:58] INFO No tv_agree_alert
+2018-08-03 11:20:33,355 loginView.py[line:61] INFO click tv_agree_alert
+2018-08-03 11:20:33,356 myunit.py[line:15] INFO =====tearDown=======
+2018-08-03 11:21:51,826 myunit.py[line:11] INFO =====setUp=======
+2018-08-03 11:21:51,828 desired_caps.py[line:33] INFO start  instll app ....
+2018-08-03 11:22:01,652 test_login.py[line:13] INFO ====start=====
+2018-08-03 11:22:01,653 common_fun.py[line:23] INFO ===========check_updateBtn===========
+2018-08-03 11:22:02,077 common_fun.py[line:28] INFO cancel_upgradeBtn element is not found!
+2018-08-03 11:22:02,077 common_fun.py[line:34] INFO ===========skipBtnm===========
+2018-08-03 11:22:02,091 common_fun.py[line:41] INFO skipBtnm
+2018-08-03 11:22:02,693 loginView.py[line:32] INFO ====login_action====
+2018-08-03 11:22:02,694 loginView.py[line:33] INFO username is: 18721102132
+2018-08-03 11:22:08,150 loginView.py[line:35] INFO password is£º aaa111222
+2018-08-03 11:22:13,319 loginView.py[line:37] INFO click loginBtn
+2018-08-03 11:22:13,974 loginView.py[line:39] INFO login finished!!!
+2018-08-03 11:22:13,974 loginView.py[line:53] INFO =====check_agree_alert=======
+2018-08-03 11:22:13,974 loginView.py[line:42] INFO ===============
+2018-08-03 11:22:16,245 loginView.py[line:46] INFO No alert....
+2018-08-03 11:22:16,301 loginView.py[line:61] INFO click tv_agree_alert
+2018-08-03 11:22:17,010 loginView.py[line:65] INFO ==========check_loginStatus===========
+2018-08-03 11:22:17,010 common_fun.py[line:70] INFO ======check_marked_ad=======
+2018-08-03 11:22:18,278 common_fun.py[line:74] INFO No wemedia_cacel
+2018-08-03 11:22:22,243 loginView.py[line:79] INFO login success!!!
+2018-08-03 11:22:22,244 myunit.py[line:15] INFO =====tearDown=======
+2018-08-03 11:23:35,432 myunit.py[line:11] INFO =====setUp=======
+2018-08-03 11:23:35,436 desired_caps.py[line:33] INFO start  instll app ....
+2018-08-03 11:23:45,642 test_login.py[line:13] INFO ====start=====
+2018-08-03 11:23:45,643 common_fun.py[line:23] INFO ===========check_updateBtn===========
+2018-08-03 11:23:45,878 common_fun.py[line:28] INFO cancel_upgradeBtn element is not found!
+2018-08-03 11:23:45,878 common_fun.py[line:34] INFO ===========skipBtnm===========
+2018-08-03 11:23:45,909 common_fun.py[line:41] INFO skipBtnm
+2018-08-03 11:23:46,796 loginView.py[line:32] INFO ====login_action====
+2018-08-03 11:23:46,797 loginView.py[line:33] INFO username is: 18721102132
+2018-08-03 11:23:52,166 loginView.py[line:35] INFO password is£º aaa111222
+2018-08-03 11:23:57,335 loginView.py[line:37] INFO click loginBtn
+2018-08-03 11:23:58,027 loginView.py[line:39] INFO login finished!!!
+2018-08-03 11:23:58,027 loginView.py[line:53] INFO =====check_agree_alert=======
+2018-08-03 11:23:58,027 loginView.py[line:42] INFO ===============
+2018-08-03 11:23:59,735 loginView.py[line:46] INFO No alert....
+2018-08-03 11:23:59,850 loginView.py[line:61] INFO click tv_agree_alert
+2018-08-03 11:24:00,612 loginView.py[line:65] INFO ==========check_loginStatus===========
+2018-08-03 11:24:00,612 common_fun.py[line:70] INFO ======check_marked_ad=======
+2018-08-03 11:24:01,042 common_fun.py[line:74] INFO No wemedia_cacel
+2018-08-03 11:24:02,544 loginView.py[line:79] INFO login success!!!
+2018-08-03 11:24:02,544 myunit.py[line:15] INFO =====tearDown=======
+2018-08-03 11:24:45,747 myunit.py[line:11] INFO =====setUp=======
+2018-08-03 11:24:45,750 desired_caps.py[line:33] INFO start  instll app ....
+2018-08-03 11:24:57,919 test_login.py[line:13] INFO ====start=====
+2018-08-03 11:24:57,920 common_fun.py[line:23] INFO ===========check_updateBtn===========
+2018-08-03 11:24:58,162 common_fun.py[line:28] INFO cancel_upgradeBtn element is not found!
+2018-08-03 11:24:58,162 common_fun.py[line:34] INFO ===========skipBtnm===========
+2018-08-03 11:24:58,178 common_fun.py[line:41] INFO skipBtnm
+2018-08-03 11:24:58,501 loginView.py[line:32] INFO ====login_action====
+2018-08-03 11:24:58,501 loginView.py[line:33] INFO username is: 18721102132
+2018-08-03 11:25:03,781 loginView.py[line:35] INFO password is£º aaa111222
+2018-08-03 11:25:08,956 loginView.py[line:37] INFO click loginBtn
+2018-08-03 11:25:09,603 loginView.py[line:39] INFO login finished!!!
+2018-08-03 11:25:09,603 loginView.py[line:53] INFO =====check_agree_alert=======
+2018-08-03 11:25:09,603 loginView.py[line:42] INFO ===============
+2018-08-03 11:25:11,365 loginView.py[line:46] INFO No alert....
+2018-08-03 11:25:11,464 loginView.py[line:61] INFO click tv_agree_alert
+2018-08-03 11:25:11,929 loginView.py[line:65] INFO ==========check_loginStatus===========
+2018-08-03 11:25:11,929 common_fun.py[line:70] INFO ======check_marked_ad=======
+2018-08-03 11:25:13,289 common_fun.py[line:74] INFO No wemedia_cacel
+2018-08-03 11:25:17,210 loginView.py[line:79] INFO login success!!!
+2018-08-03 11:25:17,210 myunit.py[line:15] INFO =====tearDown=======
+2018-08-03 11:26:22,968 desired_caps.py[line:33] INFO start  instll app ....
+2018-08-03 11:26:33,614 common_fun.py[line:23] INFO ===========check_updateBtn===========
+2018-08-03 11:26:33,835 common_fun.py[line:28] INFO cancel_upgradeBtn element is not found!
+2018-08-03 11:26:33,835 common_fun.py[line:34] INFO ===========skipBtnm===========
+2018-08-03 11:26:33,851 common_fun.py[line:41] INFO skipBtnm
+2018-08-03 11:26:34,263 loginView.py[line:32] INFO ====login_action====
+2018-08-03 11:26:34,263 loginView.py[line:33] INFO username is: 18721102132
+2018-08-03 11:26:39,832 loginView.py[line:35] INFO password is£º aaa111222
+2018-08-03 11:26:45,039 loginView.py[line:37] INFO click loginBtn
+2018-08-03 11:26:45,801 loginView.py[line:39] INFO login finished!!!
+2018-08-03 11:26:45,802 loginView.py[line:53] INFO =====check_agree_alert=======
+2018-08-03 11:26:45,802 loginView.py[line:42] INFO ===============
+2018-08-03 11:26:47,664 loginView.py[line:46] INFO No alert....
+2018-08-03 11:26:47,718 loginView.py[line:61] INFO click tv_agree_alert
+2018-08-03 11:26:48,188 loginView.py[line:65] INFO ==========check_loginStatus===========
+2018-08-03 11:26:48,189 common_fun.py[line:70] INFO ======check_marked_ad=======
+2018-08-03 11:26:49,407 common_fun.py[line:74] INFO No wemedia_cacel
+2018-08-03 11:26:53,335 loginView.py[line:79] INFO login success!!!
+2018-08-03 11:27:36,363 desired_caps.py[line:33] INFO start  instll app ....
+2018-08-03 11:27:48,911 common_fun.py[line:23] INFO ===========check_updateBtn===========
+2018-08-03 11:27:49,065 common_fun.py[line:28] INFO cancel_upgradeBtn element is not found!
+2018-08-03 11:27:49,066 common_fun.py[line:34] INFO ===========skipBtnm===========
+2018-08-03 11:27:49,088 common_fun.py[line:41] INFO skipBtnm
+2018-08-03 11:27:49,599 loginView.py[line:32] INFO ====login_action====
+2018-08-03 11:27:49,600 loginView.py[line:33] INFO username is: 18721102132
+2018-08-03 11:27:55,201 loginView.py[line:35] INFO password is£º aaa111222
+2018-08-03 11:28:00,552 loginView.py[line:37] INFO click loginBtn
+2018-08-03 11:28:01,207 loginView.py[line:39] INFO login finished!!!
+2018-08-03 11:28:01,207 loginView.py[line:53] INFO =====check_agree_alert=======
+2018-08-03 11:28:01,207 loginView.py[line:42] INFO ===============
+2018-08-03 11:28:03,346 loginView.py[line:49] INFO Close alert....
+2018-08-03 11:28:06,529 loginView.py[line:61] INFO click tv_agree_alert
+2018-08-03 11:28:07,210 loginView.py[line:65] INFO ==========check_loginStatus===========
+2018-08-03 11:28:07,210 common_fun.py[line:70] INFO ======check_marked_ad=======
+2018-08-03 11:28:07,761 common_fun.py[line:74] INFO No wemedia_cacel
+2018-08-03 11:28:11,761 loginView.py[line:79] INFO login success!!!
+2018-08-03 11:28:11,762 loginView.py[line:84] INFO ===logout_action=====
+2018-08-03 11:29:08,715 myunit.py[line:11] INFO =====setUp=======
+2018-08-03 11:29:08,718 desired_caps.py[line:33] INFO start  instll app ....
+2018-08-03 11:29:21,046 test_login.py[line:13] INFO ====start=====
+2018-08-03 11:29:21,047 common_fun.py[line:23] INFO ===========check_updateBtn===========
+2018-08-03 11:29:21,276 common_fun.py[line:28] INFO cancel_upgradeBtn element is not found!
+2018-08-03 11:29:21,276 common_fun.py[line:34] INFO ===========skipBtnm===========
+2018-08-03 11:29:21,295 common_fun.py[line:41] INFO skipBtnm
+2018-08-03 11:29:21,853 loginView.py[line:32] INFO ====login_action====
+2018-08-03 11:29:21,853 loginView.py[line:33] INFO username is: 18721102132
+2018-08-03 11:29:27,320 loginView.py[line:35] INFO password is£º aaa111222
+2018-08-03 11:29:32,508 loginView.py[line:37] INFO click loginBtn
+2018-08-03 11:29:33,161 loginView.py[line:39] INFO login finished!!!
+2018-08-03 11:29:33,161 loginView.py[line:53] INFO =====check_agree_alert=======
+2018-08-03 11:29:33,161 loginView.py[line:42] INFO ===============
+2018-08-03 11:29:35,417 loginView.py[line:46] INFO No alert....
+2018-08-03 11:29:35,438 loginView.py[line:61] INFO click tv_agree_alert
+2018-08-03 11:29:35,890 loginView.py[line:65] INFO ==========check_loginStatus===========
+2018-08-03 11:29:35,890 common_fun.py[line:70] INFO ======check_marked_ad=======
+2018-08-03 11:29:37,126 common_fun.py[line:74] INFO No wemedia_cacel
+2018-08-03 11:29:41,096 loginView.py[line:79] INFO login success!!!
+2018-08-03 11:29:41,096 myunit.py[line:15] INFO =====tearDown=======
+2018-08-03 11:30:23,719 myunit.py[line:11] INFO =====setUp=======
+2018-08-03 11:30:23,721 desired_caps.py[line:33] INFO start  instll app ....
+2018-08-03 11:30:35,151 test_login.py[line:13] INFO ====start=====
+2018-08-03 11:30:35,152 common_fun.py[line:23] INFO ===========check_updateBtn===========
+2018-08-03 11:30:35,414 common_fun.py[line:28] INFO cancel_upgradeBtn element is not found!
+2018-08-03 11:30:35,414 common_fun.py[line:34] INFO ===========skipBtnm===========
+2018-08-03 11:30:35,448 common_fun.py[line:41] INFO skipBtnm
+2018-08-03 11:30:35,732 loginView.py[line:32] INFO ====login_action====
+2018-08-03 11:30:35,732 loginView.py[line:33] INFO username is: 18721102132
+2018-08-03 11:30:41,270 loginView.py[line:35] INFO password is£º aaa111222
+2018-08-03 11:30:46,438 loginView.py[line:37] INFO click loginBtn
+2018-08-03 11:30:47,150 loginView.py[line:39] INFO login finished!!!
+2018-08-03 11:30:47,151 loginView.py[line:53] INFO =====check_agree_alert=======
+2018-08-03 11:30:47,151 loginView.py[line:42] INFO ===============
+2018-08-03 11:30:48,852 loginView.py[line:46] INFO No alert....
+2018-08-03 11:30:48,871 loginView.py[line:61] INFO click tv_agree_alert
+2018-08-03 11:30:49,495 loginView.py[line:65] INFO ==========check_loginStatus===========
+2018-08-03 11:30:49,495 common_fun.py[line:70] INFO ======check_marked_ad=======
+2018-08-03 11:30:50,622 common_fun.py[line:74] INFO No wemedia_cacel
+2018-08-03 11:30:54,542 loginView.py[line:79] INFO login success!!!
+2018-08-03 11:30:54,542 myunit.py[line:15] INFO =====tearDown=======
+2018-08-03 11:34:48,816 myunit.py[line:11] INFO =====setUp=======
+2018-08-03 11:34:48,818 desired_caps.py[line:33] INFO start  instll app ....
+2018-08-03 11:34:58,713 test_login.py[line:13] INFO ====start=====
+2018-08-03 11:34:58,714 common_fun.py[line:23] INFO ===========check_updateBtn===========
+2018-08-03 11:34:59,021 common_fun.py[line:28] INFO cancel_upgradeBtn element is not found!
+2018-08-03 11:34:59,021 common_fun.py[line:34] INFO ===========skipBtnm===========
+2018-08-03 11:34:59,048 common_fun.py[line:39] INFO skipBtn element is not found!
+2018-08-03 11:34:59,048 loginView.py[line:32] INFO ====login_action====
+2018-08-03 11:34:59,048 loginView.py[line:33] INFO username is: 18721102132
+2018-08-03 11:34:59,069 myunit.py[line:15] INFO =====tearDown=======
+2018-08-03 11:35:45,416 myunit.py[line:11] INFO =====setUp=======
+2018-08-03 11:35:45,419 desired_caps.py[line:33] INFO start  instll app ....
+2018-08-03 11:35:58,164 test_login.py[line:13] INFO ====start=====
+2018-08-03 11:35:58,165 common_fun.py[line:23] INFO ===========check_updateBtn===========
+2018-08-03 11:35:58,319 common_fun.py[line:28] INFO cancel_upgradeBtn element is not found!
+2018-08-03 11:35:58,320 common_fun.py[line:34] INFO ===========skipBtnm===========
+2018-08-03 11:35:58,367 common_fun.py[line:41] INFO skipBtnm
+2018-08-03 11:35:58,885 loginView.py[line:32] INFO ====login_action====
+2018-08-03 11:35:58,885 loginView.py[line:33] INFO username is: 18721102132
+2018-08-03 11:36:04,387 loginView.py[line:35] INFO password is£º aaa111222
+2018-08-03 11:36:10,079 loginView.py[line:37] INFO click loginBtn
+2018-08-03 11:36:10,759 loginView.py[line:39] INFO login finished!!!
+2018-08-03 11:36:10,759 loginView.py[line:53] INFO =====check_agree_alert=======
+2018-08-03 11:36:10,759 loginView.py[line:42] INFO ===============
+2018-08-03 11:36:12,846 loginView.py[line:46] INFO No alert....
+2018-08-03 11:36:12,968 loginView.py[line:61] INFO click tv_agree_alert
+2018-08-03 11:36:13,450 loginView.py[line:65] INFO ==========check_loginStatus===========
+2018-08-03 11:36:13,450 common_fun.py[line:70] INFO ======check_marked_ad=======
+2018-08-03 11:36:14,295 common_fun.py[line:74] INFO No wemedia_cacel
+2018-08-03 11:36:18,816 loginView.py[line:79] INFO login success!!!
+2018-08-03 11:36:18,816 myunit.py[line:15] INFO =====tearDown=======
+2018-08-03 11:43:19,733 myunit.py[line:11] INFO =====setUp=======
+2018-08-03 11:43:19,734 desired_caps.py[line:33] INFO start  instll app ....
+2018-08-03 11:43:29,695 test_login.py[line:13] INFO ====start=====
+2018-08-03 11:43:29,695 common_fun.py[line:23] INFO ===========check_updateBtn===========
+2018-08-03 11:43:29,925 common_fun.py[line:28] INFO cancel_upgradeBtn element is not found!
+2018-08-03 11:43:29,925 common_fun.py[line:34] INFO ===========skipBtnm===========
+2018-08-03 11:43:29,944 common_fun.py[line:41] INFO skipBtnm
+2018-08-03 11:43:30,502 loginView.py[line:32] INFO ====login_action====
+2018-08-03 11:43:30,502 loginView.py[line:33] INFO username is: 18721102132
+2018-08-03 11:43:36,076 loginView.py[line:35] INFO password is£º aaa111222
+2018-08-03 11:43:41,319 loginView.py[line:37] INFO click loginBtn
+2018-08-03 11:43:41,989 loginView.py[line:39] INFO login finished!!!
+2018-08-03 11:43:41,989 loginView.py[line:53] INFO =====check_agree_alert=======
+2018-08-03 11:43:41,989 loginView.py[line:42] INFO ===============
+2018-08-03 11:43:44,076 loginView.py[line:49] INFO Close alert....
+2018-08-03 11:43:47,622 loginView.py[line:61] INFO click tv_agree_alert
+2018-08-03 11:43:50,741 loginView.py[line:65] INFO ==========check_loginStatus===========
+2018-08-03 11:43:50,741 common_fun.py[line:70] INFO ======check_marked_ad=======
+2018-08-03 11:43:50,821 common_fun.py[line:74] INFO No wemedia_cacel
+2018-08-03 11:43:54,766 loginView.py[line:79] INFO login success!!!
+2018-08-03 11:43:54,766 loginView.py[line:84] INFO ===logout_action=====
+2018-08-03 11:43:57,043 myunit.py[line:15] INFO =====tearDown=======
+2018-08-03 11:44:12,476 myunit.py[line:11] INFO =====setUp=======
+2018-08-03 11:44:12,477 desired_caps.py[line:33] INFO start  instll app ....
+2018-08-03 11:44:24,319 test_login.py[line:13] INFO ====start=====
+2018-08-03 11:44:24,320 common_fun.py[line:23] INFO ===========check_updateBtn===========
+2018-08-03 11:44:24,559 common_fun.py[line:28] INFO cancel_upgradeBtn element is not found!
+2018-08-03 11:44:24,559 common_fun.py[line:34] INFO ===========skipBtnm===========
+2018-08-03 11:44:24,583 common_fun.py[line:41] INFO skipBtnm
+2018-08-03 11:44:24,964 loginView.py[line:32] INFO ====login_action====
+2018-08-03 11:44:24,964 loginView.py[line:33] INFO username is: 18721102132
+2018-08-03 11:44:30,360 loginView.py[line:35] INFO password is£º aaa111222
+2018-08-03 11:44:35,502 loginView.py[line:37] INFO click loginBtn
+2018-08-03 11:44:36,279 loginView.py[line:39] INFO login finished!!!
+2018-08-03 11:44:36,279 loginView.py[line:53] INFO =====check_agree_alert=======
+2018-08-03 11:44:36,280 loginView.py[line:42] INFO ===============
+2018-08-03 11:44:37,887 loginView.py[line:46] INFO No alert....
+2018-08-03 11:44:38,095 loginView.py[line:61] INFO click tv_agree_alert
+2018-08-03 11:44:38,593 loginView.py[line:65] INFO ==========check_loginStatus===========
+2018-08-03 11:44:38,593 common_fun.py[line:70] INFO ======check_marked_ad=======
+2018-08-03 11:44:39,443 common_fun.py[line:74] INFO No wemedia_cacel
+2018-08-03 11:44:43,493 loginView.py[line:79] INFO login success!!!
+2018-08-03 11:44:43,493 loginView.py[line:84] INFO ===logout_action=====
+2018-08-03 11:44:46,742 myunit.py[line:15] INFO =====tearDown=======
+2018-08-03 11:45:16,203 desired_caps.py[line:33] INFO start  instll app ....
+2018-08-03 11:45:28,215 common_fun.py[line:23] INFO ===========check_updateBtn===========
+2018-08-03 11:45:28,472 common_fun.py[line:28] INFO cancel_upgradeBtn element is not found!
+2018-08-03 11:45:28,472 common_fun.py[line:34] INFO ===========skipBtnm===========
+2018-08-03 11:45:28,658 common_fun.py[line:41] INFO skipBtnm
+2018-08-03 11:45:29,514 loginView.py[line:32] INFO ====login_action====
+2018-08-03 11:45:29,514 loginView.py[line:33] INFO username is: 18721102132
+2018-08-03 11:45:34,830 loginView.py[line:35] INFO password is£º aaa111222
+2018-08-03 11:45:39,992 loginView.py[line:37] INFO click loginBtn
+2018-08-03 11:45:40,659 loginView.py[line:39] INFO login finished!!!
+2018-08-03 11:45:40,659 loginView.py[line:53] INFO =====check_agree_alert=======
+2018-08-03 11:45:40,659 loginView.py[line:42] INFO ===============
+2018-08-03 11:45:41,989 loginView.py[line:46] INFO No alert....
+2018-08-03 11:45:42,317 loginView.py[line:61] INFO click tv_agree_alert
+2018-08-03 11:45:42,739 loginView.py[line:65] INFO ==========check_loginStatus===========
+2018-08-03 11:45:42,739 common_fun.py[line:70] INFO ======check_marked_ad=======
+2018-08-03 11:45:43,879 common_fun.py[line:74] INFO No wemedia_cacel
+2018-08-03 11:45:47,848 loginView.py[line:79] INFO login success!!!
+2018-08-03 11:45:47,849 loginView.py[line:84] INFO ===logout_action=====
+2018-08-03 16:11:06,237 run.py[line:16] INFO start run testcase...
+2018-08-03 16:11:06,255 myunit.py[line:11] INFO =====setUp=======
+2018-08-03 16:11:06,260 desired_caps.py[line:33] INFO start  instll app ....
+2018-08-03 16:13:38,778 run.py[line:16] INFO start run testcase...
+2018-08-03 16:13:38,778 myunit.py[line:11] INFO =====setUp=======
+2018-08-03 16:13:38,801 desired_caps.py[line:33] INFO start  instll app ....
+2018-08-03 16:15:05,574 run.py[line:16] INFO start run testcase...
+2018-08-03 16:15:05,575 myunit.py[line:11] INFO =====setUp=======
+2018-08-03 16:15:05,577 desired_caps.py[line:33] INFO start  instll app ....
+2018-08-03 16:17:08,692 run.py[line:16] INFO start run testcase...
+2018-08-03 16:17:08,692 myunit.py[line:11] INFO =====setUp=======
+2018-08-03 16:17:08,697 desired_caps.py[line:33] INFO start  instll app ....
+2018-08-03 16:17:32,488 test_login.py[line:13] INFO ====start=====
+2018-08-03 16:17:32,523 common_fun.py[line:23] INFO ===========check_updateBtn===========
+2018-08-03 16:17:32,745 common_fun.py[line:28] INFO cancel_upgradeBtn element is not found!
+2018-08-03 16:17:32,745 common_fun.py[line:34] INFO ===========skipBtnm===========
+2018-08-03 16:17:32,809 common_fun.py[line:41] INFO skipBtnm
+2018-08-03 16:17:33,216 loginView.py[line:32] INFO ====login_action====
+2018-08-03 16:17:33,216 loginView.py[line:33] INFO username is: 18721102132
+2018-08-03 16:17:38,725 loginView.py[line:35] INFO password is£º aaa111222
+2018-08-03 16:17:43,857 loginView.py[line:37] INFO click loginBtn
+2018-08-03 16:17:44,548 loginView.py[line:39] INFO login finished!!!
+2018-08-03 16:17:44,549 loginView.py[line:53] INFO =====check_agree_alert=======
+2018-08-03 16:17:44,549 loginView.py[line:42] INFO ===============
+2018-08-03 16:17:50,541 loginView.py[line:46] INFO No alert....
+2018-08-03 16:17:50,712 loginView.py[line:61] INFO click tv_agree_alert
+2018-08-03 16:17:51,169 loginView.py[line:65] INFO ==========check_loginStatus===========
+2018-08-03 16:17:51,169 common_fun.py[line:70] INFO ======check_marked_ad=======
+2018-08-03 16:17:51,981 common_fun.py[line:74] INFO No wemedia_cacel
+2018-08-03 16:17:53,962 loginView.py[line:79] INFO login success!!!
+2018-08-03 16:17:53,962 loginView.py[line:84] INFO ===logout_action=====
+2018-08-03 16:17:58,700 myunit.py[line:15] INFO =====tearDown=======
+2018-08-03 16:54:25,502 run.py[line:16] INFO start run testcase...
+2018-08-03 16:54:25,502 myunit.py[line:11] INFO =====setUp=======
+2018-08-03 16:54:25,504 desired_caps.py[line:37] INFO start  instll app ....
+2018-08-03 16:54:37,010 test_login.py[line:13] INFO ====start=====
+2018-08-03 16:54:37,012 common_fun.py[line:23] INFO ===========check_updateBtn===========
+2018-08-03 16:54:37,259 common_fun.py[line:28] INFO cancel_upgradeBtn element is not found!
+2018-08-03 16:54:37,260 common_fun.py[line:34] INFO ===========skipBtnm===========
+2018-08-03 16:54:37,337 common_fun.py[line:41] INFO skipBtnm
+2018-08-03 16:54:38,125 loginView.py[line:32] INFO ====login_action====
+2018-08-03 16:54:38,126 loginView.py[line:33] INFO username is: 18721102132
+2018-08-03 16:54:43,416 loginView.py[line:35] INFO password is£º aaa111222
+2018-08-03 16:54:48,542 loginView.py[line:37] INFO click loginBtn
+2018-08-03 16:54:49,226 loginView.py[line:39] INFO login finished!!!
+2018-08-03 16:54:49,227 loginView.py[line:53] INFO =====check_agree_alert=======
+2018-08-03 16:54:49,228 loginView.py[line:42] INFO ===============
+2018-08-03 16:54:51,602 loginView.py[line:46] INFO No alert....
+2018-08-03 16:54:51,631 loginView.py[line:61] INFO click tv_agree_alert
+2018-08-03 16:54:52,109 loginView.py[line:65] INFO ==========check_loginStatus===========
+2018-08-03 16:54:52,109 common_fun.py[line:70] INFO ======check_marked_ad=======
+2018-08-03 16:54:53,207 common_fun.py[line:74] INFO No wemedia_cacel
+2018-08-03 16:54:57,192 loginView.py[line:79] INFO login success!!!
+2018-08-03 16:54:57,193 loginView.py[line:84] INFO ===logout_action=====
+2018-08-03 16:55:00,222 myunit.py[line:15] INFO =====tearDown=======
+2018-08-03 17:01:34,993 run.py[line:16] INFO start run testcase...
+2018-08-03 17:01:34,993 myunit.py[line:11] INFO =====setUp=======
+2018-08-03 17:01:34,995 desired_caps.py[line:37] INFO start  instll app ....
+2018-08-03 17:01:44,600 test_login.py[line:13] INFO ====start=====
+2018-08-03 17:01:44,601 common_fun.py[line:23] INFO ===========check_updateBtn===========
+2018-08-03 17:01:44,847 common_fun.py[line:28] INFO cancel_upgradeBtn element is not found!
+2018-08-03 17:01:44,848 common_fun.py[line:34] INFO ===========skipBtnm===========
+2018-08-03 17:01:44,917 common_fun.py[line:41] INFO skipBtnm
+2018-08-03 17:01:45,337 loginView.py[line:32] INFO ====login_action====
+2018-08-03 17:01:45,337 loginView.py[line:33] INFO username is: 18721102132
+2018-08-03 17:01:50,696 loginView.py[line:35] INFO password is£º aaa111222
+2018-08-03 17:01:55,862 loginView.py[line:37] INFO click loginBtn
+2018-08-03 17:01:56,500 loginView.py[line:39] INFO login finished!!!
+2018-08-03 17:01:56,500 loginView.py[line:53] INFO =====check_agree_alert=======
+2018-08-03 17:01:56,501 loginView.py[line:42] INFO ===============
+2018-08-03 17:01:58,175 loginView.py[line:46] INFO No alert....
+2018-08-03 17:01:58,218 loginView.py[line:61] INFO click tv_agree_alert
+2018-08-03 17:01:58,673 loginView.py[line:65] INFO ==========check_loginStatus===========
+2018-08-03 17:01:58,673 common_fun.py[line:70] INFO ======check_marked_ad=======
+2018-08-03 17:01:59,832 common_fun.py[line:74] INFO No wemedia_cacel
+2018-08-03 17:02:03,763 loginView.py[line:79] INFO login success!!!
+2018-08-03 17:02:03,764 loginView.py[line:84] INFO ===logout_action=====
+2018-08-03 17:02:06,877 myunit.py[line:15] INFO =====tearDown=======
+2018-08-03 17:09:55,012 run.py[line:16] INFO start run testcase...
+2018-08-03 17:09:55,013 myunit.py[line:11] INFO =====setUp=======
+2018-08-03 17:09:55,014 desired_caps.py[line:37] INFO start  instll app ....
+2018-08-03 17:10:05,145 test_login.py[line:13] INFO ====start=====
+2018-08-03 17:10:05,146 common_fun.py[line:23] INFO ===========check_updateBtn===========
+2018-08-03 17:10:05,393 common_fun.py[line:28] INFO cancel_upgradeBtn element is not found!
+2018-08-03 17:10:05,394 common_fun.py[line:34] INFO ===========skipBtnm===========
+2018-08-03 17:10:05,503 common_fun.py[line:41] INFO skipBtnm
+2018-08-03 17:10:05,887 loginView.py[line:32] INFO ====login_action====
+2018-08-03 17:10:05,887 loginView.py[line:33] INFO username is: 18721102132
+2018-08-03 17:10:11,419 loginView.py[line:35] INFO password is£º aaa111222
+2018-08-03 17:10:16,537 loginView.py[line:37] INFO click loginBtn
+2018-08-03 17:10:17,208 loginView.py[line:39] INFO login finished!!!
+2018-08-03 17:10:17,209 loginView.py[line:53] INFO =====check_agree_alert=======
+2018-08-03 17:10:17,209 loginView.py[line:42] INFO ===============
+2018-08-03 17:10:19,943 loginView.py[line:46] INFO No alert....
+2018-08-03 17:10:20,094 loginView.py[line:61] INFO click tv_agree_alert
+2018-08-03 17:10:20,561 loginView.py[line:65] INFO ==========check_loginStatus===========
+2018-08-03 17:10:20,562 common_fun.py[line:70] INFO ======check_marked_ad=======
+2018-08-03 17:10:22,005 common_fun.py[line:74] INFO No wemedia_cacel
+2018-08-03 17:10:25,945 loginView.py[line:79] INFO login success!!!
+2018-08-03 17:10:25,945 loginView.py[line:84] INFO ===logout_action=====
+2018-08-03 17:10:28,038 myunit.py[line:15] INFO =====tearDown=======
+2018-08-06 10:20:33,089 run.py[line:16] INFO start run testcase...
+2018-08-06 10:20:33,125 myunit.py[line:11] INFO =====setUp=======
+2018-08-06 10:20:33,129 desired_caps.py[line:37] INFO start  instll app ....
+2018-08-06 10:35:20,807 run.py[line:16] INFO start run testcase...
+2018-08-06 10:35:20,807 myunit.py[line:11] INFO =====setUp=======
+2018-08-06 10:35:20,808 desired_caps.py[line:37] INFO start  instll app ....
+2018-08-06 10:37:00,565 run.py[line:16] INFO start run testcase...
+2018-08-06 10:37:00,565 myunit.py[line:11] INFO =====setUp=======
+2018-08-06 10:37:00,567 desired_caps.py[line:37] INFO start  instll app ....
+2018-08-06 10:37:16,719 test_login.py[line:13] INFO ====start=====
+2018-08-06 10:37:16,762 common_fun.py[line:23] INFO ===========check_updateBtn===========
+2018-08-06 10:37:16,960 common_fun.py[line:28] INFO cancel_upgradeBtn element is not found!
+2018-08-06 10:37:16,960 common_fun.py[line:34] INFO ===========skipBtnm===========
+2018-08-06 10:37:16,989 common_fun.py[line:41] INFO skipBtnm
+2018-08-06 10:37:17,514 loginView.py[line:32] INFO ====login_action====
+2018-08-06 10:37:17,514 loginView.py[line:33] INFO username is: 18721102132
+2018-08-06 10:37:23,397 loginView.py[line:35] INFO password is£º aaa111222
+2018-08-06 10:37:28,531 loginView.py[line:37] INFO click loginBtn
+2018-08-06 10:37:29,201 loginView.py[line:39] INFO login finished!!!
+2018-08-06 10:37:29,202 loginView.py[line:53] INFO =====check_agree_alert=======
+2018-08-06 10:37:29,202 loginView.py[line:42] INFO ===============
+2018-08-06 10:37:31,612 loginView.py[line:46] INFO No alert....
+2018-08-06 10:37:31,642 loginView.py[line:61] INFO click tv_agree_alert
+2018-08-06 10:37:32,126 loginView.py[line:65] INFO ==========check_loginStatus===========
+2018-08-06 10:37:32,127 common_fun.py[line:70] INFO ======check_marked_ad=======
+2018-08-06 10:37:33,666 common_fun.py[line:74] INFO No wemedia_cacel
+2018-08-06 10:37:37,675 loginView.py[line:79] INFO login success!!!
+2018-08-06 10:37:37,676 loginView.py[line:84] INFO ===logout_action=====
+2018-08-06 10:37:40,760 myunit.py[line:15] INFO =====tearDown=======
